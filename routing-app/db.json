@@ -1,0 +1,74 @@
+{
+	"products":[
+	
+	{
+	"id": 1,
+	"name":"Điện thoại Itel S42 - Hàng chính hãng" ,
+	"img":"https://vn-test-11.slatic.net/p/601bfa8e22e3ce7b7661595448cfb783.jpg" ,
+	"price":1850000 ,
+	"number_star": 5,
+	"city": "HaNoi",
+	"detail": "detail 1" ,
+	"number_star": 5,
+	"city": "HaNoi",
+	"detail": "detail 1" 
+	},
+	 
+	 
+	{
+	"id": 2,
+	"name":"Điện thoại Itel S42 - Hàng chính hãng" ,
+	"img":"https://vn-test-11.slatic.net/p/601bfa8e22e3ce7b7661595448cfb783.jpg" ,
+	"price":1850000 ,
+	"number_star": 5,
+	"city": "HaNoi",
+	"detail": "detail 1" ,
+	"number_star": 5,
+	"city": "HaNoi",
+	"detail": "detail 1" 
+	},
+	 
+	 	{
+	"id": 3,
+	"name":"Điện thoại Itel S42 - Hàng chính hãng" ,
+	"img":"https://vn-test-11.slatic.net/p/601bfa8e22e3ce7b7661595448cfb783.jpg" ,
+	"price":1850000 ,
+	"number_star": 5,
+	"city": "HaNoi",
+	"detail": "detail 1" ,
+	"number_star": 5,
+	"city": "HaNoi",
+	"detail": "detail 1" 
+	},
+	
+	
+		{
+	"id": 4,
+	"name":"Điện thoại Itel S42 - Hàng chính hãng" ,
+	"img":"https://vn-test-11.slatic.net/p/601bfa8e22e3ce7b7661595448cfb783.jpg" ,
+	"price":1850000 ,
+	"number_star": 5,
+	"city": "HaNoi",
+	"detail": "detail 1" ,
+	"number_star": 5,
+	"city": "HaNoi",
+	"detail": "detail 1" 
+	},
+	
+			{
+	"id": 4,
+	"name":"Điện thoại Itel S42 - Hàng chính hãng" ,
+	"img":"https://vn-test-11.slatic.net/p/601bfa8e22e3ce7b7661595448cfb783.jpg" ,
+	"price":1850000 ,
+	"number_star": 5,
+	"city": "HaNoi",
+	"detail": "detail 1" ,
+	"number_star": 5,
+	"city": "HaNoi",
+	"detail": "detail 1" 
+	}
+	 
+]
+
+
+}
